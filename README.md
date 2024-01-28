@@ -51,10 +51,10 @@ Implements the drawing canvas using the React Konva library. Handles user intera
 
 ## Features
 Switch between pen and eraser tools.
-Adjust eraser thickness for precise erasing.
+Adjust eraser thickness for precise erasing. 
 Responsive drawing canvas.
 
 ## Technologies Used
-React
+React 
 React Konva
 CSS
