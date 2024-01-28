@@ -27,7 +27,7 @@ npm install
 ```
 4. Start the development server:
 ```
-npm start
+npm run dev
 ```
 The application should now be accessible at http://localhost:3000 in your web browser.
 
