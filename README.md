@@ -29,7 +29,7 @@ npm install
 ```
 npm run dev
 ```
-The application should now be accessible at http://localhost:3000 in your web browser.
+The application should now be accessible at http://localhost:5173 in your web browser.
 
 ## Usage:
 1. The main entry point of the application is App.jsx. Open this file to understand the overall structure of the application.
